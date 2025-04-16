@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- Original English Text /-->
+	<language id="english">
+	
+    <entry id="hero_class_name_Livia"><![CDATA[Livia]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Everfrost Snowflake{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}
+	{colour_start|healhp}Heal{colour_end} 30% Max Hp
+	-100% {colour_start|bleed}DeathDoor{colour_end} Resistance
+	{colour_start|G1}(Combat End){colour_end}]]></entry>
+	
+    <entry id="hero_class_name_Livia"><![CDATA[莉薇娅]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}永冻雪花{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[清除{colour_start|bleed}流血{colour_end}/{colour_start|blight}腐蚀{colour_end}
+	{colour_start|healhp}治疗{colour_end}30%最大生命
+	-100% {colour_start|bleed}濒死{colour_end}抗性
+	{colour_start|G1}(持续1场战斗){colour_end}]]></entry>
+	</language>
+	
+	
+	<!-- GoogleTranslate raw auto /-->
+	<language id="russian GoogleTranslate raw auto"><entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start | Reality} Everfrost Snowflake {colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Cure {colour_start | bleed} bleed {colour_end}/{colour_start | blight} blight {colour_end}
+	{colour_start | Healhp} Heal {colour_end} 30% Макс.
+	-100% {colour_start | bleed} Deathdoor {colour_end} Сопротивление
+	{colour_start | g1} (combat end) {colour_end}]]></entry>
+	
+    <entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start | Reality} Постоянная снежинка {colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Clear {colour_start | bleed} blood {colour_end}/{colour_start | blight} corrosion {colour_end}
+	{colour_start | Healhp} Health {colour_end} 30% максимальный срок службы
+	-100% {colour_start | bleed} почти умирает {colour_end} сопротивление
+	{colour_start | g1} (1 битва длится) {colour_end}]]></entry>
+	</language>
+	
+	
+	<!-- GoogleTranslate optimal auto /-->
+	<language id="russian GoogleTranslate optimal auto"><entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Вечно снежинка{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Излечивать {colour_start|bleed}Провести кровотечение{colour_end}/{colour_start|blight}Гниль{colour_end}
+	{colour_start|healhp}Лечить{colour_end} 30% макс
+	-100% {colour_start|bleed}Смертный турнир{colour_end} Сопротивление
+	{colour_start|G1}(Боевой конец){colour_end}]]></entry>
+	
+    <entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Постоянные снежинки{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Прозрачный{colour_start|bleed}истекать кровью{colour_end}/{colour_start|blight}коррозия{colour_end}
+	{colour_start|healhp}обращаться{colour_end}30% максимальная жизнь
+	-100% {colour_start|bleed}Почти смерть{colour_end}Сопротивление
+	{colour_start|G1}(1 битва длится){colour_end}]]></entry>
+	</language>
+	
+	
+	<!-- GoogleTranslate optimal /-->
+	<language id="russian GoogleTranslate optimal"><entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Вечно снежинка{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Излечивать {colour_start|bleed}Провести кровотечение{colour_end}/{colour_start|blight}Гниль{colour_end}
+	{colour_start|healhp}Лечить{colour_end} 30% макс
+	-100% {colour_start|bleed}Смертный турнир{colour_end} Сопротивление
+	{colour_start|G1}(Боевой конец){colour_end}]]></entry>
+	
+    <entry id="hero_class_name_Livia"><![CDATA[莉薇娅]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}永冻雪花{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[清除{colour_start|bleed}流血{colour_end}/{colour_start|blight}腐蚀{colour_end}
+	{colour_start|healhp}治疗{colour_end}30%最大生命
+	-100% {colour_start|bleed}濒死{colour_end}抗性
+	{colour_start|G1}(持续 1 场战斗){colour_end}]]></entry>
+	</language>
+	
+	
+	<!-- GoogleTranslate deepl_mustache /-->
+	<language id="russian GoogleTranslate deepl_mustache"><entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[&amp;amp;amp;amp;lt;m id = 0/&amp;amp;amp;amp;gt; everfrost snowflake &amp;amp;amp;amp;lt;m id = 1/&amp;amp;amp;amp;gt;]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Cure &amp;amp;amp;amp;lt;m id = 2/&amp;amp;amp;amp;gt; bleed &amp;amp;amp;amp;lt;m id = 3/&amp;amp;amp;amp;gt;/&amp;amp;amp;amp;lt;m id = 4/&amp;amp;amp;amp;gt; blight &amp;amp;amp;amp;lt;m id = 5/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 6/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 7/&amp;amp;amp;amp;gt; Heal &amp;amp;amp;amp;lt;m id = 8/&amp;amp;amp;amp;gt; 30% max hp &amp;amp;amp;amp;lt;m id = 9/&amp;amp;amp;amp;gt;-100% &amp;amp;amp;amp;lt;m id = 10/&amp;amp;amp;amp;gt; deathdoor &amp;amp;amp;amp;lt;m id = 11/&amp;amp;amp;amp;gt; сопротивление &amp;amp;amp;amp;lt;m id = 12/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 13/&amp;amp;amp;amp;gt; (m id 14/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 13/&amp;amp;amp;amp;gt;&amp;amp;amp;amp;gt; (MID = 13/&amp;amp;amp;amp;gt; (MID = 13/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m Id = 13/&amp;amp;amp;amp;gt;&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 13/&amp;amp;amp;amp;gt;&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 13/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id.]]></entry>
+	
+    <entry id="hero_class_name_Livia"><![CDATA[莉薇娅]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[&amp;amp;amp;amp;lt;m id = 15/&amp;amp;amp;amp;gt; 永冻雪花 &amp;amp;amp;amp;lt;m id = 16/&amp;amp;amp;amp;gt;]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[清除 &amp;amp;amp;amp;lt;m id = 17/&amp;amp;amp;amp;gt; 流血 &amp;amp;amp;amp;lt;m id = 18/&amp;amp;amp;amp;gt;/&amp;amp;amp;amp;lt;m id = 19/&amp;amp;amp;amp;gt; 腐蚀 &amp;amp;amp;amp;lt;m id = 20/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 21/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 22/&amp;amp;amp;amp;gt; 治疗 &amp;amp;amp;amp;lt;m id = 23/&amp;amp;amp;amp;gt; 30% 最大生命 &amp;amp;amp;amp;lt;m id = 24/&amp;amp;amp;amp;gt;-100% &amp;amp;amp;amp;lt;m id = 25/&amp;amp;amp;amp;gt; 濒死 &amp;amp;amp;amp;lt;m id = 26/&amp;amp;amp;amp;gt; 抗性 &amp;amp;amp;amp;lt;m id = 27/&amp;amp;amp;amp;gt; &amp;amp;amp;amp;lt;m id = 28/&amp;amp;amp;amp;gt; 濒死 &amp;amp;amp;amp;lt;m id = 26/&amp;amp;amp;amp;gt; 抗性 &amp;amp;amp;amp;lt;m id = 28/&amp;amp;amp;amp;gt; (m id = 28/&amp;amp;amp;amp;gt; (m id = 26/&amp;amp;amp;amp;gt; 抗性 &amp;amp;amp;amp;lt;m id = 28/&amp;amp;amp;amp;gt; 濒死 &amp;amp;amp;amp;lt;m id = 26/&amp;amp;amp;amp;gt; 抗性 &amp;amp;amp;amp;lt;m id = 28/&amp;amp;amp;amp;gt; 濒死 &amp;amp;amp;amp;lt;m id = 26/&amp;amp;amp;amp;gt; 抗性 &amp;amp;amp;amp;lt;m id = 28/&amp;amp;amp;amp;gt; 濒死 &amp;amp;amp;amp;lt;m id = 26/&amp;amp;amp;amp;gt; 抗性 &amp;amp;amp;amp;lt;m id = 27/&amp;amp;amp;amp;gt;.]]></entry>
+	</language>
+	
+	
+	
+	<!-- DeeplTranslator deepl_mustache /-->
+	<language id="russian DeeplTranslator deepl_mustache"><entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Снежинка из вечного мороза{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}
+	{colour_start|healhp}Heal{colour_end} 30% Max Hp
+	-100% {colour_start|bleed}DeathDoor{colour_end} Resistance
+	{colour_start|G1}(Combat End){colour_end}]]></entry>
+	
+    <entry id="hero_class_name_Livia"><![CDATA[莉薇娅]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}永冻雪花{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[清除{colour_start|bleed}流血{colour_end}/{colour_start|blight}腐蚀{colour_end}
+	{colour_start|healhp}治疗{colour_end}30%最大生命
+	-100% {colour_start|bleed}濒死{colour_end}抗性
+	{colour_start|G1}(持续1场战斗){colour_end}]]></entry>
+	</language>
+	
+	
+
+	<!-- DeeplTranslator deepl_mustache language_detector /-->
+	<language id="russian DeeplTranslator deepl_mustache language_detector"><entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Снежинка из вечного мороза{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}
+	{colour_start|healhp}Heal{colour_end} 30% Max Hp
+	-100% {colour_start|bleed}DeathDoor{colour_end} Resistance
+	{colour_start|G1}(Combat End){colour_end}]]></entry>
+	
+    <entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Постоянно замерзающие снежинки {colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Устраняет {colour_start|bleed}Кровотечение{colour_end}/{colour_start|blight}Коррозию{colour_end}
+	{colour_start|healhp}Исцеление{colour_end}30% Max Life
+	-100% {colour_start|bleed}Умирание{colour_end}Сопротивление
+	&amp;lt;m id= 28/&amp;gt; (действует в течение 1 боя){colour_end}]]></entry>
+	</language>
+	
+	
+	<!-- DeepSeek-R1 deepl_mustache /-->
+	<language id="russian"><entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Снежинка Вечного Инея{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Лечение {colour_start|bleed}Кровотечение{colour_end}/{colour_start|blight}Гниль{colour_end}
+	{colour_start|healhp}Исцеление{colour_end} 30% макс. HP
+	-100% {colour_start|bleed}Порог смерти{colour_end} Сопротивление
+	{colour_start|G1}(Конец боя){colour_end}]]></entry>
+	
+    <entry id="hero_class_name_Livia"><![CDATA[Ливия]]></entry>
+	
+	<entry id="str_inventory_title_estateLivia_Stw"><![CDATA[{colour_start|Reality}Вечномёрзлая снежинка{colour_end}]]></entry>
+	<entry id="str_inventory_description_estateLivia_Stw"><![CDATA[Очищает {colour_start|bleed}кровотечение{colour_end}/{colour_start|blight}коррозию{colour_end}
+	{colour_start|healhp}Лечение{colour_end}30% максимального здоровья
+	-100% {colour_start|bleed}сопротивление смерти{colour_end}
+	{colour_start|G1}(Длится 1 бой){colour_end}]]></entry>
+	</language>
+	
+	</root>
