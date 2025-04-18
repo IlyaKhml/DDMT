@@ -2,7 +2,7 @@
     <b>RU</b> • <a href='../en/settings.md'>EN</a> • <a href='../zh/settings.md'>ZH</a>
 </p>
 <p align='center'>
-    <a href='../../readme.md'>Основное</a> • <b>Документация</b> • <a href='how_it_works.md'>Как это работает?</a> • <a href='qa.md'>Вопросы</a> 
+    <a href='../../README.md'>Основное</a> • <b>Документация</b> • <a href='how_it_works.md'>Как это работает?</a> • <a href='qa.md'>Вопросы</a> 
 </p>
 
 # Настройки
