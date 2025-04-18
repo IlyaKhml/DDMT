@@ -1,6 +1,5 @@
-<p style="text-align: center; font-size: 2em; font-weight: bold; margin: 0px; padding: 0px">
-    Darkest Dungeon Mod Translator <span style="font-size: 11px">
-</p>
+
+# Darkest Dungeon Mod Translator
 
 ---
 <p align='center'>
@@ -28,7 +27,7 @@
 1. Перейдите в папку, в которую нужно установить `DDMT`.
 2. Клонируйте репозиторий:
 ``` bash
-git clone %ссылка на репозиторий%
+git clone https://github.com/IlyaKhml/DDMT.git
 ```
 3. Создайте и активируйте виртуальную среду:
 ``` bash

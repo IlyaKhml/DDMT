@@ -24,7 +24,7 @@
 1. 进入您希望安装 `DDMT` 的文件夹。
 2. 克隆仓库：
 ```bash
-git clone %repository_link%
+git clone https://github.com/IlyaKhml/DDMT.git
 ```
 3. 创建并激活虚拟环境：
 ```bash

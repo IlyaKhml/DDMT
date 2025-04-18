@@ -23,7 +23,7 @@ To download the repository and run the script, you need:
 1. Navigate to the folder where you want to install `DDMT`.
 2. Clone the repository:
 ```bash
-git clone %repository_link%
+git clone https://github.com/IlyaKhml/DDMT.git
 ```
 3. Create and activate a virtual environment:
 ```bash
