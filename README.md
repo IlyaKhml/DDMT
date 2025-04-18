@@ -1,7 +1,5 @@
-
 # Darkest Dungeon Mod Translator
 
----
 <p align='center'>
     <b>RU</b> • <a href='docs\en\README.md'>EN</a> • <a href='docs\zh\README.md'>ZH</a>
 </p>
